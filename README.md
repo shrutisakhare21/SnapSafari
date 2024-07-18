@@ -1,7 +1,7 @@
 # SnapSafari
 Welcome to the SnapSafari website repository!  SnapSafari is a modern web application built using Vite, React, Tailwind CSS, and Material-UI components. It integrates external APIs to offer users the ability to download high-quality images and ensures a seamless, responsive experience across all screen sizes.
 
-Features
+# Features
 
 High-Quality Image Downloads: Users can download high-quality images directly from the website.
 Responsive Design: The website is designed to adapt to various screen sizes, ensuring a seamless experience across devices.
